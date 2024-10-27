@@ -1,0 +1,6 @@
+D:\Uni\2nd year\OOP\Lab01.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_Lab01.Tests
+D:\Uni\2nd year\OOP\Lab01.Tests\obj\Debug\net8.0\Lab01.Tests.csproj.AssemblyReference.cache
+D:\Uni\2nd year\OOP\Lab01.Tests\obj\Debug\net8.0\Lab01.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni\2nd year\OOP\Lab01.Tests\obj\Debug\net8.0\Lab01.Tests.AssemblyInfoInputs.cache
+D:\Uni\2nd year\OOP\Lab01.Tests\obj\Debug\net8.0\Lab01.Tests.AssemblyInfo.cs
+D:\Uni\2nd year\OOP\Lab01.Tests\obj\Debug\net8.0\Lab01.Tests.csproj.CoreCompileInputs.cache
